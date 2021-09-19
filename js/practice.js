@@ -316,3 +316,4 @@ function sum(...values){
 }
 
 
+const test = "test";
